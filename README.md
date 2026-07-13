@@ -22,7 +22,7 @@ Gradle
 Telegram Bot Token
 Telegram Chat ID
 Installation
-git clone https://github.com/blackhatvenomm/V3NOM.git
+git clone https://github.com/systemtechonline/AndroidOps.git
 Open in Android Studio.
 Let Gradle sync.
 Configure your Telegram Bot credentials.
